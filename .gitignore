@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+.venv/
+myenv/
+env/
+
+# Environment config (contains credentials)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Output files
+output/
+*.docx
+*.doc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+tmp/
+temp/
